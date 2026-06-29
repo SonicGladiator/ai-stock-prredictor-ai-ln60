@@ -1,4 +1,4 @@
-# 
+# Custom AI Stock Price Predictor extensions. Featuring neural-networks and automated-decision-making — optimized for maximum performance.
 
 
 
